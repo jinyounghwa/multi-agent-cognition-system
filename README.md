@@ -6,8 +6,8 @@
 ## 📋 Table of Contents | 목차 | 目次
 
 - [English](#english)
-- [한국어](#korean)
-- [日本語](#japanese)
+- [한국어](#한국어)
+- [日本語](#日本語)
 
 ---
 
