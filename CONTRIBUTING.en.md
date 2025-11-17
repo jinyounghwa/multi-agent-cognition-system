@@ -194,7 +194,7 @@ docs/
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/multi-agent-cognition-system.git
+   git clone https://github.com/jinyounghwa/multi-agent-cognition-system.git
    cd multi-agent-cognition-system
    ```
 

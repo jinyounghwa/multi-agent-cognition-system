@@ -347,7 +347,7 @@ Total time invested: [hours] | Quality: [assessment]
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/multi-agent-cognition-system.git
+git clone https://github.com/jinyounghwa/multi-agent-cognition-system.git
 cd multi-agent-cognition-system
 
 # Create personal journey directory
