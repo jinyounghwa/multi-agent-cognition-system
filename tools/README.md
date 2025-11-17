@@ -48,11 +48,20 @@ Explore the automation scripts and customize them for your workflow.
 
 ## Quick Navigation
 
+### Currently Available Tools | 현재 사용 가능한 도구 | 現在利用可能なツール
+
 | Tool Type | English | 한국어 | 日本語 |
 |-----------|---------|--------|--------|
-| Prompts | [Thinking Prompts](en/moai-thinking-prompts.md) | [사고 프롬프트](ko/moai-thinking-prompts.md) | [思考プロンプト](ja/moai-thinking-prompts.md) |
-| Guide | [Perspective Switching](en/perspective-switching-guide.md) | [관점 전환](ko/perspective-switching-guide.md) | [視点切替](ja/perspective-switching-guide.md) |
-| Integration | [Tool Integration](en/integration-template.md) | [도구 통합](ko/integration-template.md) | [ツール統合](ja/integration-template.md) |
+| Prompts | [Thinking Prompts](en/moai-thinking-prompts.md) | Coming Soon | Coming Soon |
+
+### More Tools Coming Soon | 더 많은 도구 준비 중 | さらなるツール準備中
+
+We're working on adding more tools and guides. Contributions are welcome!
+
+- Perspective Switching Guide
+- Tool Integration Guide
+- Translations to Korean and Japanese
+- Automation scripts (Python)
 
 ---
 
