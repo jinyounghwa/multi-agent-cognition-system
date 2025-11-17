@@ -628,7 +628,6 @@ chmod +x scripts/setup-mcs.sh
 
 ## 연락처 & 커뮤니티
 
-- **개인 블로그**: (your website)
 - **GitHub 이슈**: 방법론 질문 및 개선 사항
 - **토론**: MCS 여정 공유
 - **예시**: 흥미로운 통찰 또는 응용 사례 게시

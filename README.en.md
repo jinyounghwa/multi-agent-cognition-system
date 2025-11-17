@@ -625,7 +625,6 @@ This framework is open for personal and educational use. Share freely, attribute
 
 ## Contact & Community
 
-- **Personal Blog**: (your website)
 - **GitHub Issues**: For methodology questions and improvements
 - **Discussions**: Share your MCS journey
 - **Examples**: Post interesting insights or applications
