@@ -62,12 +62,20 @@ Weekly and monthly synthesis examples
 
 ## Quick Navigation
 
+### Currently Available Examples | 현재 사용 가능한 예시 | 現在利用可能な例
+
 | Category | English | 한국어 | 日本語 |
 |----------|---------|--------|--------|
-| Learning | [PostgreSQL](en/learning-postgresql.md) | [PostgreSQL](ko/learning-postgresql.md) | [PostgreSQL](ja/learning-postgresql.md) |
-| Project | [Career App](en/project-career-app.md) | [커리어 앱](ko/project-career-app.md) | [キャリアアプリ](ja/project-career-app.md) |
-| Business | [NLP SaaS](en/business-nlp-saas.md) | [NLP SaaS](ko/business-nlp-saas.md) | [NLP SaaS](ja/business-nlp-saas.md) |
-| Integration | [Week 1](en/integration-week1.md) | [1주차](ko/integration-week1.md) | [第1週](ja/integration-week1.md) |
+| Learning | [PostgreSQL](en/learning-postgresql.md) | Coming Soon | Coming Soon |
+
+### More Examples Coming Soon | 더 많은 예시 준비 중 | さらなる例準備中
+
+We're working on adding more examples. Contributions are welcome!
+
+- Project examples (Career App, Tokenizer, etc.)
+- Business idea examples
+- Weekly/Monthly integration examples
+- Translations to Korean and Japanese
 
 ---
 

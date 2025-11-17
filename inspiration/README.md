@@ -58,12 +58,23 @@ MCS builds on established thinking frameworks:
 
 ## Quick Navigation
 
-| Category | English | 한국어 | 日本語 |
-|----------|---------|--------|--------|
-| AI Research | [Multi-Agent AI](en/anthropic-moai-research.md) | [다중-에이전트 AI](ko/anthropic-moai-research.md) | [マルチエージェントAI](ja/anthropic-moai-research.md) |
-| Cognitive Science | [Human Cognition](en/cognitive-science-foundations.md) | [인간 인지](ko/cognitive-science-foundations.md) | [人間認知](ja/cognitive-science-foundations.md) |
-| Methodologies | [Similar Frameworks](en/similar-methodologies.md) | [유사 방법론](ko/similar-methodologies.md) | [類似方法論](ja/similar-methodologies.md) |
-| Reading List | [Recommended Books](en/reading-list.md) | [추천 도서](ko/reading-list.md) | [推奨書籍](ja/reading-list.md) |
+### Research Resources | 연구 자료 | 研究リソース
+
+**All resources are currently available in this README.**
+
+For detailed research papers and books, see the sections above:
+- [Key Research Papers](#key-research-papers--주요-연구-논문--主要研究論文)
+- [Further Reading](#further-reading--추가-읽을거리--追加読書)
+
+### Detailed Articles Coming Soon | 상세 문서 준비 중 | 詳細記事準備中
+
+We're working on creating in-depth articles on:
+- Anthropic's Multi-Agent Research System analysis
+- Cognitive science foundations for MCS
+- Comparison with similar methodologies
+- Comprehensive reading list and book summaries
+
+Contributions are welcome!
 
 ---
 

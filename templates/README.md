@@ -65,13 +65,20 @@ git push
 
 ## Quick Navigation
 
-| English | 한국어 | 日本語 |
-|---------|--------|--------|
-| [Daily Reflection](en/daily-reflection.md) | [일일 반성](ko/daily-reflection.md) | [日次反省](ja/daily-reflection.md) |
-| [Weekly Summary](en/weekly-summary.md) | [주간 요약](ko/weekly-summary.md) | [週次サマリー](ja/weekly-summary.md) |
-| [Monthly Review](en/monthly-review.md) | [월간 리뷰](ko/monthly-review.md) | [月次レビュー](ja/monthly-review.md) |
-| [Quarterly Assessment](en/quarterly-assessment.md) | [분기별 평가](ko/quarterly-assessment.md) | [四半期評価](ja/quarterly-assessment.md) |
-| [Project Analysis](en/project-moai-analysis.md) | [프로젝트 분석](ko/project-moai-analysis.md) | [プロジェクト分析](ja/project-moai-analysis.md) |
+### Currently Available Templates | 현재 사용 가능한 템플릿 | 現在利用可能なテンプレート
+
+| Template | English | 한국어 | 日本語 |
+|----------|---------|--------|--------|
+| Daily Reflection | [daily-reflection.md](en/daily-reflection.md) | [daily-reflection.md](ko/daily-reflection.md) | [daily-reflection.md](ja/daily-reflection.md) |
+
+### More Templates Coming Soon | 더 많은 템플릿 준비 중 | さらなるテンプレート準備中
+
+We're working on adding more templates. Contributions are welcome!
+
+- Weekly Summary template
+- Monthly Review template
+- Quarterly Assessment template
+- Project MoAI Analysis template
 
 ---
 
